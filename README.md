@@ -1,2 +1,3 @@
-# csharp-guided-project-2
+# C# guided project 2
+
 Microsoft Learn C# Guided Project
